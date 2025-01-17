@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 there
+=======
+hello there this is my attempt
+>>>>>>> feature2
